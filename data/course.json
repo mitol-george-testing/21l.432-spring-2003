@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Drama"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "00c098a4-38a3-6b3a-5637-a788c70f97a8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Understanding Television",
+  "course_description": "The subtitle of this course for the spring 2003 term is \"American Television: A Cultural History.\" The class takes a cultural approach to television's evolution as a technology and system of representation, considering television as a system of storytelling and myth-making, and as a cultural practice, studied from anthropological, literary, and cinematic perspectives. The course focuses on prime-time commercial broadcasting, the medium's technological and economic history, and theoretical perspectives. There is much required viewing as well as readings in media theory and cultural interpretation.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.432",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
